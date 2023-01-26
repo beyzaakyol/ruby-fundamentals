@@ -20,3 +20,4 @@ p kusurlu_sayi
 p kusurlu_sayi.to_s
 
 p kusurlu_sayi.to_i
+
